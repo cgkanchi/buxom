@@ -4,6 +4,7 @@ __pycache__/
 
 # C extensions
 *.so
+buxom.c
 
 # Distribution / packaging
 .Python
